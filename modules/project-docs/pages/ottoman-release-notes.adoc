@@ -26,12 +26,12 @@ https://ottomanjs.com/#installation[Ottoman installation]
 
 === New Features
 
-* Adds Ottoman support for Couchbase Transactions
+* Adds Ottoman support for xref:howtos:distributed-acid-transactions-from-the-sdk.adoc[Couchbase Transactions].
 
 === Fixed Issues
 
 * Bumped `couchbase` dependency to `v4.3.1`.
-* https://github.com/couchbaselabs/node-ottoman/issues/748[#748],https://github.com/couchbaselabs/node-ottoman/issues/754[#754],https://github.com/couchbaselabs/node-ottoman/issues/755[#755],https://github.com/couchbaselabs/node-ottoman/issues/760[#760]:
+* https://github.com/couchbaselabs/node-ottoman/issues/748[#748], https://github.com/couchbaselabs/node-ottoman/issues/754[#754], https://github.com/couchbaselabs/node-ottoman/issues/755[#755], https://github.com/couchbaselabs/node-ottoman/issues/760[#760]:
 Minor documentation fixes.
 
 
