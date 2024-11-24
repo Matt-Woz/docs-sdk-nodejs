@@ -26,7 +26,7 @@ https://ottomanjs.com/#installation[Ottoman installation]
 
 === Fixed Issues
 
-* Replace synchronous batch processing with asynchronous batch processing: https://github.com/couchbaselabs/node-ottoman/issues/790[#790].
+* Replaced synchronous batch processing with asynchronous batch processing: https://github.com/couchbaselabs/node-ottoman/issues/790[#790].
 
 
 == Version 2.5.0 (10 June 2024)
